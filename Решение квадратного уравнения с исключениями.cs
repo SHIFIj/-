@@ -8,7 +8,7 @@
                 try
                 {
                     // Ввод коэффициентов уравнения
-                    Console.WriteLine("Введите коэффициенты квадратного уравнения (ax^2 + bx + c = 0):");
+                    Console.WriteLine("Введите коэффициенты квадратного уравнения:");
                     Console.Write("a = ");
                     double a = Convert.ToDouble(Console.ReadLine());
                     Console.Write("b = ");
